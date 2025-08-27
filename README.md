@@ -10,8 +10,14 @@ It demonstrates key data analysis operations such as:
 - Saving the processed dataset to a new CSV file  
 - Basic data visualisation with Pandas/Matplotlib 
 
-![](./1.png)
-![](./2.png)
+#Histogram
+
+![](./Image/1.png)
+
+
+#Line Chart
+
+![](./Image/2.png)
 
 ## 📂 Dataset
 - **student.csv** → Original dataset  

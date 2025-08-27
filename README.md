@@ -8,7 +8,16 @@ It demonstrates key data analysis operations such as:
 - Creating a new column (`grade`) based on conditions  
 - Sorting data by marks  
 - Saving the processed dataset to a new CSV file  
-- Basic data visualisation with Pandas/Matplotlib  
+- Basic data visualisation with Pandas/Matplotlib 
+
+#Histogram
+
+![](./Image/1.png)
+
+
+#Line Chart
+
+![](./Image/2.png)
 
 ## 📂 Dataset
 - **student.csv** → Original dataset  

@@ -11,8 +11,7 @@ It demonstrates key data analysis operations such as:
 - Basic data visualisation with Pandas/Matplotlib 
 
 ![](./1.png)
-
- 
+![](./2.png)
 
 ## 📂 Dataset
 - **student.csv** → Original dataset  
